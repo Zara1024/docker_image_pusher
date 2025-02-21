@@ -1,2 +1,2 @@
-nginx:1.14.6
-frolvlad/alpine-glibc
+nginx:1.21.6
+
