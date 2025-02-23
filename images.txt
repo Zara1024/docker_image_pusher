@@ -1,1 +1,1 @@
-frolvlad/alpine-glibc:glibc-2.35
+docker.io/juanblanchard/alpine-glibc
