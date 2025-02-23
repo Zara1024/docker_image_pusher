@@ -1,1 +1,1 @@
-docker.io/juanblanchard/alpine-glibc
+jeanblanchard/alpine-glibc:3.13.10
