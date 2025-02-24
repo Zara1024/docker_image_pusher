@@ -1,1 +1,1 @@
-centos:latest
+infoblox/dnstools:latest
