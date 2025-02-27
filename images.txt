@@ -1,1 +1,1 @@
-infoblox/dnstools:latest
+nacos:1.4.1
