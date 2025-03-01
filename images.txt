@@ -1,1 +1,2 @@
-scratch
+registry.cn-beijing.aliyuncs.com/dotbalo/controller:v1.2.0
+registry.cn-beijing.aliyuncs.com/dotbalo/kube-webhook-certgen:v1.1.1
