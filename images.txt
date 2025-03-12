@@ -1,1 +1,1 @@
-bitnami/jenkins:2.387.2-debian-11-r3
+moby/buildkit:buildx-stable-1
