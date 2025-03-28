@@ -1,1 +1,1 @@
-registry.k8s.io/ingress-nginx/custom-error-pages:v1.1.1
+ghcr.io/ot-container-kit/redis-operator/redis-operator:v0.19.1
