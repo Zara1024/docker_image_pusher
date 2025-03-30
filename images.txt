@@ -1,2 +1,1 @@
-container-registry.oracle.com/mysql/community-cluster:9.1.0
-container-registry.oracle.com/mysql/community-ndb-operator:9.1.0-1.6.0
+node:18.12.0
