@@ -1,1 +1,1 @@
-docker:stable
+redis:7.4.2
