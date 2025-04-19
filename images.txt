@@ -1,1 +1,1 @@
-gcr.lank8s.cn/google-samples/microservices-demo/frontend:v0.2.1
+gcr.io/google-samples/microservices-demo/frontend:v0.2.1
