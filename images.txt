@@ -1,2 +1,1 @@
-apache/apisix-dashboard:3.0.0-alpine
-docker.io/bitnami/etcd:3.5.7-debian-11-r14
+apache/apisix-ingress-controller:1.7.1
