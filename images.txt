@@ -1,1 +1,1 @@
-apache/apisix-ingress-controller:1.7.1
+apache/apisix:3.5.0-debian
