@@ -1,1 +1,1 @@
-apache/apisix:3.5.0-debian
+docker.io/bitnami/bitnami-shel:11-debian-11-r90
