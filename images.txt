@@ -1,1 +1,1 @@
-docker.io/bitnami/bitnami-shel:11-debian-11-r90
+containous/whoami:v1.5.0
