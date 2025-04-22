@@ -1,1 +1,1 @@
-sameersbn/gitlab:16.1.0
+argoproj/argo-rollouts:v0.10.2
