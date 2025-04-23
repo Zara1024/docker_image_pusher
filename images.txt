@@ -1,4 +1,1 @@
-elasticsearch:8.17.0
-kibana:8.17.0
-logstash:8.17.0
-filebeat:8.17.0
+elastic/filebeat:8.17.0
