@@ -1,1 +1,1 @@
-jenkins/jenkins:lts-jdk17
+jenkins/inbound-agent:3107.v665000b_51092-15-jdk17
