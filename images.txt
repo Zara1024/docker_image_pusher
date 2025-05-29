@@ -1,2 +1,1 @@
-ghcr.io/flannel-io/flannel:v0.26.7
-ghcr.io/flannel-io/flannel-cni-plugin:v1.6.2-flannel1
+velero/velero-plugin-for-aws:v1.5.5
