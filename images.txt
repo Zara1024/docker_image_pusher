@@ -1,1 +1,1 @@
-apache/skywalking-java-agent:9.4.0-java8
+mongo:4.0.13
