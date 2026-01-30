@@ -1,1 +1,1 @@
-ghcr.io/laniksj/dfimage
+hugomods/hugo:std-dart-sass-go-non-root
