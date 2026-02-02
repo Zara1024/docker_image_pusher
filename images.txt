@@ -1,1 +1,1 @@
-python:3.10-slim
+certbot/certbot:v5.2.2
