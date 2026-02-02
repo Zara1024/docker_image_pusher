@@ -1,1 +1,1 @@
-hugomods/hugo:std-dart-sass-go-non-root
+python:3.10-slim
