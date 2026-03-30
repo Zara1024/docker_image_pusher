@@ -1,1 +1,3 @@
-ghcr.io/jefferyhcool/bilinote:latest
+jefferyhjw/bilinote-nginx:latest
+jefferyhjw/bilinote-backend:latest
+jefferyhjw/bilinote-frontend:latest
