@@ -1,1 +1,1 @@
-certbot/certbot:v5.2.2
+ghcr.io/jefferyhcool/bilinote:latest
