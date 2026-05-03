@@ -1,1 +1,2 @@
-phpmyadmin:5.2.3
+prom/prometheus:v3.11.3
+prom/node-exporter:master
