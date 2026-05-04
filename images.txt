@@ -1,1 +1,10 @@
-quay.io/kubernaut-ai/gateway:1.3.2
+quay.io/kubernaut-ai/datastorage:1.3.2
+quay.io/kubernaut-ai/aianalysis:1.3.2
+quay.io/kubernaut-ai/signalprocessing:1.3.2
+quay.io/kubernaut-ai/remediationorchestrator:1.3.2
+quay.io/kubernaut-ai/workflowexecution:1.3.2
+quay.io/kubernaut-ai/notification:1.3.2
+quay.io/kubernaut-ai/effectivenessmonitor:1.3.2
+quay.io/kubernaut-ai/kubernautagent:1.3.2
+quay.io/kubernaut-ai/authwebhook:1.3.2
+quay.io/kubernaut-ai/db-migrate:1.3.2
