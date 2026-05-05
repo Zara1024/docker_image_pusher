@@ -1,7 +1,9 @@
-docker.io/library/postgres:16-alpine
-docker.io/valkey/valkey:8-alpine
-docker.io/bitnami/kubectl:latest@sha256:6e2cdb22d6ab7264ea198c717f555e30536b54029d26c8781b9f25f78951b564
-registry.redhat.io/rhel10/postgresql-16
-registry.redhat.io/rhel10/valkey-8
-registry.redhat.io/openshift4/ose-cli-rhel9:v4.17
-registry.access.redhat.com/ubi10/ubi-minimal:latest
+golang:1.24-alpine
+alpine:3.20
+node:20-alpine
+nginx:1.27-alpine
+mysql:8.0.33
+redis:7.0-alpine
+prom/pushgateway:v1.9.0
+prom/prometheus:v2.47.0
+quay.io/prometheus/alertmanager:v0.27.0
