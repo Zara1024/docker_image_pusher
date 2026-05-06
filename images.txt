@@ -1,9 +1,1 @@
-golang:1.24-alpine
-alpine:3.20
-node:20-alpine
-nginx:1.27-alpine
-mysql:8.0.33
-redis:7.0-alpine
-prom/pushgateway:v1.9.0
-prom/prometheus:v2.47.0
-quay.io/prometheus/alertmanager:v0.27.0
+bitnami/kubectl:latest
