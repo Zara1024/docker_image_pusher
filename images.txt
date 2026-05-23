@@ -1,3 +1,1 @@
-calciumion/new-api:latest
-redis:latest
-postgres:15
+n8nio/n8n:nightly
